@@ -1,0 +1,7 @@
+.teste{
+    display: inline-table;
+    justify-content: flex-end;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 35vw;
+}
