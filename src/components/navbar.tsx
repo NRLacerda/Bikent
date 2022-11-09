@@ -6,14 +6,6 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
-import { createTheme } from '@mui/material/styles';
-import { green } from '@mui/material/colors';
-
-const theme = createTheme({
-  palette: {
-    primary: green,
-  },
-});
 
 export const sxStyle ={
     backgroundColor:'#019267'
