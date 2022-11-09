@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "@mui/material/Button";
 
+// estiliza
 export const sxStyle ={
     backgroundColor:'#019267'
 }
