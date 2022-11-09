@@ -3,7 +3,8 @@ import Button from "@mui/material/Button";
 
 // estiliza
 export const sxStyle ={
-    backgroundColor:'#019267'
+    backgroundColor:'#019267',
+    
 }
 
 function LoginScreen() {
